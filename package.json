@@ -1,6 +1,6 @@
 {
   "name": "register-form",
-  "homepage": "https://talal.0947283331@gmail.com.github.io/RegisterForm",
+  "homepage": "https://githubtalal.github.io/RegisterForm",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,7 +15,6 @@
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "bootstrap": "^5.3.8",
-    "gh-pages": "^6.3.0",
     "react": "^19.2.0",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.0",
@@ -30,6 +29,7 @@
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
+    "gh-pages": "^6.3.0",
     "globals": "^16.5.0",
     "vite": "^7.2.4"
   }
